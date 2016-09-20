@@ -1,0 +1,38 @@
+#intro {
+  vertical-align: top;
+  width: 70%;
+  margin: 0 auto;
+  font-size: 150%;
+  font-family: 'Arial';
+}
+
+.otherwiki {
+  font-weight: bold;
+  width:100%;
+  text-align: center;
+}
+
+.wiki-item {
+  margin-bottom: 50px;
+  height: 175px;
+  display: inline-block;
+  width: 20%;
+}
+
+#footer {
+  clear: both;
+  text-align: center;
+  width: 70%;
+  margin: 10px auto;
+  border-top: .5px solid #aaa;
+  font-family: 'Arial';
+}
+
+#footer ul {
+  list-style-type: none;
+}
+
+#footer ul li {
+display: inline;
+margin: 0 10px;
+}
